@@ -2,7 +2,7 @@
 
 ???
 
-## CLI Essentials Quiz
+# CLI Essentials Quiz
 
 ?: What's a task that can be achieved with a CLI?
 
